@@ -1,10 +1,22 @@
-# notes_app
+# Notes
 
-A new Flutter project.
+A simple small notepad allowing creating and editing text notes 
+using Firebase
 
-## Getting Started
+<tr>  
+   <th>   <h2>Notes</h2> </th>
+  <tr/>
+  <tr>
+   <th><img src="images/notes.gif"  width="300"></th>
+  </tr>
 
-This project is a starting point 1
-This project is a starting point 2
-This project is a starting point 3
+## Package
+
+### firebase_core:
+
+### firebase_auth:
+
+### cloud_firestore:
+
+###  flutter_riverpod: 
 
