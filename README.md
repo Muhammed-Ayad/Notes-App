@@ -1,3 +1,8 @@
+<div align="center">
+
+
+<img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt='Notes-App'/>
+
 # Notes
 
 A simple small notepad allowing creating and editing text notes 
@@ -9,7 +14,9 @@ using Firebase
   <tr>
    <th><img src="images/notes.gif"  width="300"></th>
   </tr>
-
+   
+<div align="left">
+   
 ## Package
 
 ### firebase_core:
